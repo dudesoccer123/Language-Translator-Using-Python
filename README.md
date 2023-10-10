@@ -1,5 +1,5 @@
 # Language-Translator-Using-Python
-language translator implemented using the python programming language.
+
 English may not always be the most popular language in the world. As the world continues to grow, other languages are gaining importance. Communication and travel are advancing rapidly, and geography is no longer a barrier when it comes to conducting business or any other international activities. The only remaining challenge is the language barrier.
 
 To address this issue, our team has developed a Python program for a universal language translator. This tool helps individuals connect with people from around the world, share ideas, and communicate effectively.
