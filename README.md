@@ -10,4 +10,4 @@ The user interface is implemented using the tkinter library in python.
 
 User accounts are managed through a MySQL database, ensuring secure and validated logins to maintain data integrity. The 'account settings' section allows users to update their account details, including passwords and usernames. All account-related functions, such as creation, deletion, and updating, are implemented using various SQL queries, with the MySQL connector module seamlessly connecting the database to our Python project.
 
-Please find attached images showcasing different pages within the project.
+Please find attached images showcasing different pages within the project and a data dictionary pdf containing all the user defined functions and its use.
